@@ -6,7 +6,7 @@ import setuptools
 plugin_identifier = "psucontrol_tplinkpluscmd"
 plugin_package = "octoprint_%s" % plugin_identifier
 plugin_name = "OctoPrint-PSUControl-TPLinkPlusCMD"
-plugin_version = "1.0.0"
+plugin_version = "2.0.0"
 plugin_description = "Adds TPLink Smart Plug And CMD support to OctoPrint-PSUControl as a sub-plugin"
 plugin_author = "Eudes Ochoa"
 plugin_author_email = "eudes8@gmail.com"
