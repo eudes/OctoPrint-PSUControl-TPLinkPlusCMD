@@ -2,3 +2,4 @@ OctoPrint_*.egg-info
 .idea
 *.swp
 __pycache__
+OctoPrint-PSUControl-TPLinkPlusCmd.zip
